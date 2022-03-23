@@ -1,0 +1,8 @@
+* {
+    background-color: rgba(124,124,245,0.9);
+}
+#main-menu {
+    display: flex;
+    justify-content: center;
+    
+}
